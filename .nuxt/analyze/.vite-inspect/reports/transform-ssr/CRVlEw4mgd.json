@@ -1,0 +1,17 @@
+{
+  "resolvedId": "virtual:nuxt:/home/nursyah/Downloads/azure/fresh-project/.nuxt/css.mjs",
+  "transforms": [
+    {
+      "name": "__load__",
+      "result": "",
+      "start": 1708957139813,
+      "end": 1708957139813
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1708957139813,
+      "end": 1708957139813,
+      "order": "normal"
+    }
+  ]
+}
